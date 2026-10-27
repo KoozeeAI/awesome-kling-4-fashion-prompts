@@ -1,6 +1,17 @@
 {
-  "case_count": 1,
+  "case_count": 2,
   "cases": [
+    {
+      "content_category": "Model Showcase",
+      "fashion_use_case": "Runway",
+      "filename": "burgundy-tiered-mini-dress-paris-runway.md",
+      "media_type": "Video",
+      "normalized_model_key": "kling-4-0-flash",
+      "product_category": "Dress",
+      "raw_model": "Kling 4.0 Flash",
+      "source_path": "cases/burgundy-tiered-mini-dress-paris-runway.md",
+      "title": "Burgundy Tiered Mini Dress Paris Runway"
+    },
     {
       "content_category": "Cinematic Campaign",
       "fashion_use_case": "Fashion Film",

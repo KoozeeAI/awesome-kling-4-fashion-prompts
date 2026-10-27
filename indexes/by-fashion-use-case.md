@@ -7,3 +7,7 @@ Explore prompts by their intended fashion use case.
 ### Fashion Film (1)
 
 - [Met Gala Haute Couture Gown Film](../cases/met-gala-haute-couture-gown-film.md)
+
+### Runway (1)
+
+- [Burgundy Tiered Mini Dress Paris Runway](../cases/burgundy-tiered-mini-dress-paris-runway.md)

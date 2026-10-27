@@ -2,7 +2,7 @@
 
 Curated Kling 4.0 prompts for AI fashion videos, apparel commercials, runway films, lookbook motion, outfit transitions, and e-commerce marketing. This library helps teams plan a Kling fashion video, an AI clothing commercial, or a fashion lookbook video without losing the original prompt and source context.
 
-This library is curated for Kling 4.0 fashion-video creation. Cases labeled **Kling 3.0** are earlier-version reference examples. They keep their real Model value, original prompt, and original media; they are not Kling 4.0 generation results.
+This repository collects standard Kling 4.0 fashion cases, Kling 4.0 Flash variants, and selected Kling 3.0 reference examples. Cases labeled **Kling 4.0 Flash** keep their real Model value, original prompt, and original media; they are not described as standard Kling 4.0 generation results. Cases labeled **Kling 3.0** are earlier-version reference examples. They keep their real Model value, original prompt, and original media; they are not Kling 4.0 generation results.
 
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
@@ -44,16 +44,60 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 1 |
-| Video Prompts | 1 |
+| Total Prompts | 2 |
+| Video Prompts | 2 |
 | Kling 4.0 Cases | 0 |
+| Kling 4.0 Flash Cases | 1 |
 | Kling 3.0 Reference Cases | 1 |
 | Product Categories | 1 |
-| Fashion Use Cases | 1 |
+| Fashion Use Cases | 2 |
 
 ## ✨ Fashion Prompt Examples
 
-### No. 1: Met Gala Haute Couture Gown Film
+### No. 1: Burgundy Tiered Mini Dress Paris Runway
+
+**[Watch original video →](https://x.com/Diplomeme/status/2109983638242947120)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Runway · Video.
+
+#### 💬 Prompt Preview
+
+```
+FORMAT
+20 seconds | 16:9 | live-action fashion runway footage
+Real outdoor fashion event in Paris.
+Raw professional camera footage, observational realism.
+No commercial-style fantasy treatment.
+
+REFERENCE CONTROL
+@Image1 = exact dress reference.
+@Image2 = exact model reference.
+
+The model wears the exact burgundy leather-look mini dress shown in @Image1.
+
+Preserve the dress construction precisely:
+deep burgundy glossy faux-leather material,
+thin adjustable shoulder straps,
+```
+...
+
+**[View full prompt →](./cases/burgundy-tiered-mini-dress-paris-runway.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 4.0 Flash
+- **Media Type:** Video
+- **Fashion Use Case:** Runway
+- **Content Category:** Model Showcase
+- **Product Category:** Dress
+- **Creator:** ᴍᴜʀᴘʜʏ (@Diplomeme)
+- **Source:** [View original source](https://x.com/Diplomeme/status/2109983638242947120)
+
+---
+
+### No. 2: Met Gala Haute Couture Gown Film
 
 #### ▶️ Video Preview
 
