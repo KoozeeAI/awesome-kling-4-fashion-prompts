@@ -1,6 +1,18 @@
 {
-  "case_count": 0,
-  "cases": [],
+  "case_count": 1,
+  "cases": [
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Fashion Film",
+      "filename": "met-gala-haute-couture-gown-film.md",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Dress",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/met-gala-haute-couture-gown-film.md",
+      "title": "Met Gala Haute Couture Gown Film"
+    }
+  ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
   "normalized_model_key": "kling-4-0",
   "repository": "KoozeeAI/awesome-kling-4-fashion-prompts"

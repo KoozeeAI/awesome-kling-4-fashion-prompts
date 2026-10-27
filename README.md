@@ -2,6 +2,8 @@
 
 Curated Kling 4.0 prompts for AI fashion videos, apparel commercials, runway films, lookbook motion, outfit transitions, and e-commerce marketing. This library helps teams plan a Kling fashion video, an AI clothing commercial, or a fashion lookbook video without losing the original prompt and source context.
 
+This library is curated for Kling 4.0 fashion-video creation. Cases labeled **Kling 3.0** are earlier-version reference examples. They keep their real Model value, original prompt, and original media; they are not Kling 4.0 generation results.
+
 Browse visual examples here, then open each Case page for the complete, unchanged Original Prompt.
 
 **[Explore Kling 4.0 fashion prompts on KOOZEE →](https://koozee.ai/app/prompt/kling)**
@@ -42,14 +44,51 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 0 |
-| Video Prompts | 0 |
-| Product Categories | 0 |
-| Fashion Use Cases | 0 |
+| Total Prompts | 1 |
+| Video Prompts | 1 |
+| Kling 4.0 Cases | 0 |
+| Kling 3.0 Reference Cases | 1 |
+| Product Categories | 1 |
+| Fashion Use Cases | 1 |
 
 ## ✨ Fashion Prompt Examples
 
-No published Kling 4.0 fashion prompt cases yet. This section is generated automatically when verified cases are added.
+### No. 1: Met Gala Haute Couture Gown Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090136537442988032/img/U7zhClDuLbFVMjwA.jpg" width="460" alt="Met Gala Haute Couture Gown Film">
+</div>
+
+**[Watch original video →](https://x.com/Diplomeme/status/2090136981112250653)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Fashion Film · Video.
+
+#### 💬 Prompt Preview
+
+```
+High-octane, hyper-realistic fashion sequence in the style of Christopher Nolan, shot on actual 70mm IMAX cameras at the Met Gala. Fast-paced multi-shot editing with quick, cinematic cuts timed at exactly one shot every 2 seconds across a complete 15-second timeline. A striking young woman in an haute couture gown arrives at the Met Gala surrounded by photographers and camera flashes. High-contrast Nolan-esque color grading with deep shadows, cold teals, and bright highlights. Blinding bursts of paparazzi flashes pierce the night, reflecting across the gown and marble steps. Rapid sequence of intense cuts:
+•Shot 1 (0-2s): Eye-level tracking shot of the woman ascending the Met Gala steps as photographers surround her.
+•Shot 2 (2-4s): Tight, detailed close-up of her face, makeup, jewelry, and camera flashes reflecting in her eyes.
+•Shot 3 (4-6s): Low-angle handheld camera whip-panning upward from the flowing couture gown to her silhouette against the illuminated museum facade.
+•Shot 4 (6
+```
+...
+
+**[View full prompt →](./cases/met-gala-haute-couture-gown-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Fashion Film
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Dress
+- **Creator:** ᴍᴜʀᴘʜʏ (@Diplomeme)
+- **Source:** [View original source](https://x.com/Diplomeme/status/2090136981112250653)
 
 ## 🧩 Browse Fashion Prompts by Category
 
