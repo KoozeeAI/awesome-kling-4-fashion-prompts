@@ -5,6 +5,7 @@
       "content_category": "Model Showcase",
       "fashion_use_case": "Runway",
       "filename": "burgundy-tiered-mini-dress-paris-runway.md",
+      "layer": "verified_prompt_case",
       "media_type": "Video",
       "normalized_model_key": "kling-4-0-flash",
       "product_category": "Dress",
@@ -16,6 +17,7 @@
       "content_category": "Cinematic Campaign",
       "fashion_use_case": "Fashion Film",
       "filename": "met-gala-haute-couture-gown-film.md",
+      "layer": "verified_prompt_case",
       "media_type": "Video",
       "normalized_model_key": "kling-3-0",
       "product_category": "Dress",
@@ -25,6 +27,199 @@
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
+  "kling_video_references": 16,
+  "model_distribution": {
+    "kling_video_references": {
+      "kling-3-0": 11,
+      "kling-4-0": 5,
+      "kling-4-0-flash": 0,
+      "unspecified-kling": 0
+    },
+    "verified_prompt_cases": {
+      "kling-3-0": 1,
+      "kling-4-0": 0,
+      "kling-4-0-flash": 1
+    }
+  },
   "normalized_model_key": "kling-4-0",
-  "repository": "KoozeeAI/awesome-kling-4-fashion-prompts"
+  "references": [
+    {
+      "fashion_use_case": "Lookbook",
+      "filename": "amazon-waterfront-fashion-walk.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/amazon-waterfront-fashion-walk.md",
+      "title": "Amazon Waterfront Fashion Walk"
+    },
+    {
+      "fashion_use_case": "Lookbook",
+      "filename": "black-lingerie-pool-outfit.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Lingerie",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/black-lingerie-pool-outfit.md",
+      "title": "Black Lingerie Pool Outfit"
+    },
+    {
+      "fashion_use_case": "Fashion Film",
+      "filename": "chrysalis-avant-garde-couture.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/chrysalis-avant-garde-couture.md",
+      "title": "Chrysalis Avant-Garde Couture"
+    },
+    {
+      "fashion_use_case": "Outfit Transition",
+      "filename": "clothing-reference-walk-edit.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/clothing-reference-walk-edit.md",
+      "title": "Clothing Reference Walk Edit"
+    },
+    {
+      "fashion_use_case": "Lookbook",
+      "filename": "cozumel-bikini-lookbook.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Swimwear",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/cozumel-bikini-lookbook.md",
+      "title": "Cozumel Bikini Lookbook"
+    },
+    {
+      "fashion_use_case": "Fashion Commercial",
+      "filename": "eclipse-fashion-runway.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/eclipse-fashion-runway.md",
+      "title": "4K Fashion Runway: Eclipse"
+    },
+    {
+      "fashion_use_case": "Lookbook",
+      "filename": "emotional-girl-lookbook.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/emotional-girl-lookbook.md",
+      "title": "Emotional Girl Lookbook"
+    },
+    {
+      "fashion_use_case": "Fashion Film",
+      "filename": "enchanted-forest-feather-dress.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/enchanted-forest-feather-dress.md",
+      "title": "Enchanted Forest Feather Dress"
+    },
+    {
+      "fashion_use_case": "Runway",
+      "filename": "future-fashion-runway.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/future-fashion-runway.md",
+      "title": "4K Fashion Runway: Future"
+    },
+    {
+      "fashion_use_case": "Runway",
+      "filename": "live-action-fashion-show.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/live-action-fashion-show.md",
+      "title": "Live-Action Fashion Show"
+    },
+    {
+      "fashion_use_case": "Fashion Film",
+      "filename": "living-flower-gowns.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/living-flower-gowns.md",
+      "title": "Living Flower Gowns"
+    },
+    {
+      "fashion_use_case": "Lookbook",
+      "filename": "magical-girl-lookbook.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/magical-girl-lookbook.md",
+      "title": "Magical Girl Lookbook"
+    },
+    {
+      "fashion_use_case": "Fashion Commercial",
+      "filename": "maison-kitsune-fashion-ad.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/maison-kitsune-fashion-ad.md",
+      "title": "Maison Kitsune Fashion Ad"
+    },
+    {
+      "fashion_use_case": "Fashion Editorial",
+      "filename": "model-fashion-shoot.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 3.0",
+      "source_path": "references/model-fashion-shoot.md",
+      "title": "Model Fashion Shoot"
+    },
+    {
+      "fashion_use_case": "Runway",
+      "filename": "paris-front-row-mismatched-look.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/paris-front-row-mismatched-look.md",
+      "title": "Paris Front Row Mismatched Look"
+    },
+    {
+      "fashion_use_case": "Fashion Film",
+      "filename": "wild-roses-couture-motion-film.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/wild-roses-couture-motion-film.md",
+      "title": "Wild Roses Couture Motion Film"
+    }
+  ],
+  "repository": "KoozeeAI/awesome-kling-4-fashion-prompts",
+  "verified_prompt_cases": 2
 }
