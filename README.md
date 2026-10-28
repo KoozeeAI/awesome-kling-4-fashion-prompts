@@ -50,13 +50,13 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 | Total Prompts | 2 |
 | Video Prompts | 2 |
 | Verified Prompt Cases | 2 |
-| Kling Video References | 16 |
+| Kling Video References | 15 |
 | Kling 4.0 Cases | 0 |
 | Kling 4.0 Flash Cases | 1 |
 | Kling 3.0 Reference Cases | 1 |
 | Kling 4.0 Video References | 5 |
 | Kling 4.0 Flash Video References | 0 |
-| Kling 3.0 Video References | 11 |
+| Kling 3.0 Video References | 10 |
 | Unspecified Kling Video References | 0 |
 | Product Categories | 1 |
 | Fashion Use Cases | 2 |
@@ -173,35 +173,7 @@ Author presents a virtual-model fashion walk and names Kling 3.0 for the visuals
 
 ---
 
-### No. 2: Black Lingerie Pool Outfit
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2111924586312830976/img/5l-wDUo0IgKMtcys.jpg" width="460" alt="Black Lingerie Pool Outfit">
-</div>
-
-**[Watch original video →](https://video.twimg.com/amplify_video/2111924586312830976/vid/avc1/720x1280/1-BMZqowodgC_aJw.mp4)**
-
-This is a reference video, not a verified full prompt case.
-
-Author says a black-lingerie pool clip and its outfit were generated with Kling 3.0. The source post does not include a complete Original Prompt.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Lookbook
-- **Product Category:** Lingerie
-- **Creator:** Virginia Baker (@VirginiBaker)
-- **Source:** [View original source](https://x.com/VirginiBaker/status/2111924714285457465)
-
-**[View reference page →](./references/black-lingerie-pool-outfit.md)**
-
----
-
-### No. 3: Chrysalis Avant-Garde Couture
+### No. 2: Chrysalis Avant-Garde Couture
 
 #### ▶️ Video Preview
 
@@ -229,7 +201,7 @@ Author titles an avant-garde couture film Chrysalis and names Kling 4.0, describ
 
 ---
 
-### No. 4: Clothing Reference Walk Edit
+### No. 3: Clothing Reference Walk Edit
 
 #### ▶️ Video Preview
 
@@ -257,7 +229,7 @@ Author shows Kling 4.0 adding clothing and object image references to an existin
 
 ---
 
-### No. 5: Cozumel Bikini Lookbook
+### No. 4: Cozumel Bikini Lookbook
 
 #### ▶️ Video Preview
 
@@ -285,7 +257,7 @@ Author titles an AI bikini lookbook and beach walk rendered with Kling 3.0. The 
 
 ---
 
-### No. 6: 4K Fashion Runway: Eclipse
+### No. 5: 4K Fashion Runway: Eclipse
 
 #### ▶️ Video Preview
 
@@ -313,7 +285,7 @@ YouTube title names Kling 3.0 for high-end fashion commercial vignettes and runw
 
 ---
 
-### No. 7: Emotional Girl Lookbook
+### No. 6: Emotional Girl Lookbook
 
 #### ▶️ Video Preview
 
@@ -341,7 +313,7 @@ Creator tags the video as an AI lookbook and names 클링 3.0 / Kling 3.0 as the
 
 ---
 
-### No. 8: Enchanted Forest Feather Dress
+### No. 7: Enchanted Forest Feather Dress
 
 #### ▶️ Video Preview
 
@@ -369,7 +341,7 @@ Author shows a feather couture dress in an enchanted-forest setting generated wi
 
 ---
 
-### No. 9: 4K Fashion Runway: Future
+### No. 8: 4K Fashion Runway: Future
 
 #### ▶️ Video Preview
 
@@ -397,7 +369,7 @@ YouTube title names Kling 3.0 for a cinematic fashion runway film with futuristi
 
 ---
 
-### No. 10: Live-Action Fashion Show
+### No. 9: Live-Action Fashion Show
 
 #### ▶️ Video Preview
 
@@ -425,7 +397,7 @@ Author labels a live-action fashion show created with Kling AI 4.0 and uses a Vi
 
 ---
 
-### No. 11: Living Flower Gowns
+### No. 10: Living Flower Gowns
 
 #### ▶️ Video Preview
 
@@ -453,7 +425,7 @@ Author shows gowns made of living flowers in a palace ballroom and names Kling 3
 
 ---
 
-### No. 12: Magical Girl Lookbook
+### No. 11: Magical Girl Lookbook
 
 #### ▶️ Video Preview
 
@@ -481,7 +453,7 @@ Creator tags the video as an AI lookbook and names 클링 3.0 / Kling 3.0 as the
 
 ---
 
-### No. 13: Maison Kitsune Fashion Ad
+### No. 12: Maison Kitsune Fashion Ad
 
 #### ▶️ Video Preview
 
@@ -509,7 +481,7 @@ Author titles a cinematic Maison Kitsuné fashion ad made with Kling 3.0. The pu
 
 ---
 
-### No. 14: Model Fashion Shoot
+### No. 13: Model Fashion Shoot
 
 #### ▶️ Video Preview
 
@@ -537,7 +509,7 @@ Author describes a model in a fashion shoot generated with Kling 3.0 on Pollo AI
 
 ---
 
-### No. 15: Paris Front Row Mismatched Look
+### No. 14: Paris Front Row Mismatched Look
 
 #### ▶️ Video Preview
 
@@ -565,7 +537,7 @@ Author posts a Paris front-row fashion look with mismatched socks and oversized 
 
 ---
 
-### No. 16: Wild Roses Couture Motion Film
+### No. 15: Wild Roses Couture Motion Film
 
 #### ▶️ Video Preview
 

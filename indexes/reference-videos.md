@@ -7,7 +7,6 @@ These pages are inspiration videos. They are not verified prompt cases and do no
 | Title | Model | Fashion Use Case | Prompt Availability | Source |
 | --- | --- | --- | --- | --- |
 | [Amazon Waterfront Fashion Walk](../references/amazon-waterfront-fashion-walk.md) | Kling 3.0 | Lookbook | Not Public | [Open](https://www.youtube.com/watch?v=934o7GWdB6I) |
-| [Black Lingerie Pool Outfit](../references/black-lingerie-pool-outfit.md) | Kling 3.0 | Lookbook | Not Public | [Open](https://x.com/VirginiBaker/status/2111924714285457465) |
 | [Chrysalis Avant-Garde Couture](../references/chrysalis-avant-garde-couture.md) | Kling 4.0 | Fashion Film | Not Public | [Open](https://www.youtube.com/watch?v=x_CEU2GFpB4) |
 | [Clothing Reference Walk Edit](../references/clothing-reference-walk-edit.md) | Kling 4.0 | Outfit Transition | Not Public | [Open](https://x.com/jerrod_lew/status/2113272931434582427) |
 | [Cozumel Bikini Lookbook](../references/cozumel-bikini-lookbook.md) | Kling 3.0 | Lookbook | Not Public | [Open](https://www.youtube.com/watch?v=lvxEK4yVOSY) |

@@ -27,10 +27,10 @@
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
-  "kling_video_references": 16,
+  "kling_video_references": 15,
   "model_distribution": {
     "kling_video_references": {
-      "kling-3-0": 11,
+      "kling-3-0": 10,
       "kling-4-0": 5,
       "kling-4-0-flash": 0,
       "unspecified-kling": 0
@@ -53,17 +53,6 @@
       "raw_model": "Kling 3.0",
       "source_path": "references/amazon-waterfront-fashion-walk.md",
       "title": "Amazon Waterfront Fashion Walk"
-    },
-    {
-      "fashion_use_case": "Lookbook",
-      "filename": "black-lingerie-pool-outfit.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-3-0",
-      "product_category": "Lingerie",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 3.0",
-      "source_path": "references/black-lingerie-pool-outfit.md",
-      "title": "Black Lingerie Pool Outfit"
     },
     {
       "fashion_use_case": "Fashion Film",
