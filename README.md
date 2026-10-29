@@ -50,13 +50,13 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 | Total Prompts | 2 |
 | Video Prompts | 2 |
 | Verified Prompt Cases | 2 |
-| Kling Video References | 15 |
+| Kling Video References | 11 |
 | Kling 4.0 Cases | 0 |
 | Kling 4.0 Flash Cases | 1 |
 | Kling 3.0 Reference Cases | 1 |
 | Kling 4.0 Video References | 5 |
-| Kling 4.0 Flash Video References | 0 |
-| Kling 3.0 Video References | 10 |
+| Kling 4.0 Flash Video References | 2 |
+| Kling 3.0 Video References | 4 |
 | Unspecified Kling Video References | 0 |
 | Product Categories | 1 |
 | Fashion Use Cases | 2 |
@@ -145,35 +145,63 @@ High-octane, hyper-realistic fashion sequence in the style of Christopher Nolan,
 
 ## 🎬 Kling Fashion Video References
 
-### No. 1: Amazon Waterfront Fashion Walk
+### No. 1: 4K Runway Dreams
 
 #### ▶️ Video Preview
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/934o7GWdB6I/hqdefault.jpg" width="460" alt="Amazon Waterfront Fashion Walk">
+<img src="https://i.ytimg.com/vi/ynCami8RGgo/hqdefault.jpg" width="460" alt="4K Runway Dreams">
 </div>
 
-**[Watch original video →](https://www.youtube.com/watch?v=934o7GWdB6I)**
+**[Watch original video →](https://www.youtube.com/watch?v=ynCami8RGgo)**
 
 This is a reference video, not a verified full prompt case.
 
-Author presents a virtual-model fashion walk and names Kling 3.0 for the visuals. The public description does not include a complete Original Prompt.
+YouTube title names Kling 3.0 for a 4K haute runway film with distinct couture looks, including black feather, autumn-leaf, and black-and-white hat gowns. The public description does not include a complete Original Prompt.
 
 #### 🏷️ Details
 
 - **Content Type:** Reference Video
 - **Prompt Availability:** Not Public
 - **Model:** Kling 3.0
-- **Fashion Use Case:** Lookbook
-- **Product Category:** Full Outfit
-- **Creator:** New Amazons
-- **Source:** [View original source](https://www.youtube.com/watch?v=934o7GWdB6I)
+- **Fashion Use Case:** Runway
+- **Product Category:** Dress
+- **Creator:** IMAGINARIUM COMMERCIAL
+- **Source:** [View original source](https://www.youtube.com/watch?v=ynCami8RGgo)
 
-**[View reference page →](./references/amazon-waterfront-fashion-walk.md)**
+**[View reference page →](./references/4k-runway-dreams.md)**
 
 ---
 
-### No. 2: Chrysalis Avant-Garde Couture
+### No. 2: Black-and-White Leather Editorial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108614923182047232/img/Sa1A9PvGX-HYmxDW.jpg" width="460" alt="Black-and-White Leather Editorial">
+</div>
+
+**[Watch original video →](https://video.twimg.com/amplify_video/2108614923182047232/vid/avc1/2560x1440/EaZ_fiEoq-akBVXY.mp4)**
+
+This is a reference video, not a verified full prompt case.
+
+Author names Kling 4.0 Flash for a cinematic black-and-white leather fashion video, with portrait, crocodile-leather harness, and full leather catsuit beats. The source post does not include a complete Original Prompt.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0 Flash
+- **Fashion Use Case:** Fashion Editorial
+- **Product Category:** Full Outfit
+- **Creator:** Humz. (@humzlab)
+- **Source:** [View original source](https://x.com/humzlab/status/2108619155545186324)
+
+**[View reference page →](./references/black-white-leather-editorial.md)**
+
+---
+
+### No. 3: Chrysalis Avant-Garde Couture
 
 #### ▶️ Video Preview
 
@@ -201,119 +229,7 @@ Author titles an avant-garde couture film Chrysalis and names Kling 4.0, describ
 
 ---
 
-### No. 3: Clothing Reference Walk Edit
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113272904326750210/img/hyI-CNtpBCrSIAb0.jpg" width="460" alt="Clothing Reference Walk Edit">
-</div>
-
-**[Watch original video →](https://video.twimg.com/amplify_video/2113272904326750210/vid/avc1/1080x1920/jg7bOBnEzW7SiTVB.mp4?tag=16)**
-
-This is a reference video, not a verified full prompt case.
-
-Author shows Kling 4.0 adding clothing and object image references to an existing walking clip while keeping the original movement. The source post does not publish a complete Original Prompt.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 4.0
-- **Fashion Use Case:** Outfit Transition
-- **Product Category:** Full Outfit
-- **Creator:** Jerrod Lew (@jerrod_lew)
-- **Source:** [View original source](https://x.com/jerrod_lew/status/2113272931434582427)
-
-**[View reference page →](./references/clothing-reference-walk-edit.md)**
-
----
-
-### No. 4: Cozumel Bikini Lookbook
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://i.ytimg.com/vi/lvxEK4yVOSY/hqdefault.jpg" width="460" alt="Cozumel Bikini Lookbook">
-</div>
-
-**[Watch original video →](https://www.youtube.com/watch?v=lvxEK4yVOSY)**
-
-This is a reference video, not a verified full prompt case.
-
-Author titles an AI bikini lookbook and beach walk rendered with Kling 3.0. The public description does not include a complete Original Prompt.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Lookbook
-- **Product Category:** Swimwear
-- **Creator:** Vision Models
-- **Source:** [View original source](https://www.youtube.com/watch?v=lvxEK4yVOSY)
-
-**[View reference page →](./references/cozumel-bikini-lookbook.md)**
-
----
-
-### No. 5: 4K Fashion Runway: Eclipse
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://i.ytimg.com/vi/m44bKlvjtfg/hqdefault.jpg" width="460" alt="4K Fashion Runway: Eclipse">
-</div>
-
-**[Watch original video →](https://www.youtube.com/watch?v=m44bKlvjtfg)**
-
-This is a reference video, not a verified full prompt case.
-
-YouTube title names Kling 3.0 for high-end fashion commercial vignettes and runway lighting. The public description does not include a complete Original Prompt.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Fashion Commercial
-- **Product Category:** Dress
-- **Creator:** IMAGINARIUM COMMERCIAL
-- **Source:** [View original source](https://www.youtube.com/watch?v=m44bKlvjtfg)
-
-**[View reference page →](./references/eclipse-fashion-runway.md)**
-
----
-
-### No. 6: Emotional Girl Lookbook
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://i.ytimg.com/vi/3fH7o4pUdGM/hqdefault.jpg" width="460" alt="Emotional Girl Lookbook">
-</div>
-
-**[Watch original video →](https://www.youtube.com/watch?v=3fH7o4pUdGM)**
-
-This is a reference video, not a verified full prompt case.
-
-Creator tags the video as an AI lookbook and names 클링 3.0 / Kling 3.0 as the video tool. The public description does not include a complete Original Prompt.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Lookbook
-- **Product Category:** Full Outfit
-- **Creator:** arti9미디어
-- **Source:** [View original source](https://www.youtube.com/watch?v=3fH7o4pUdGM)
-
-**[View reference page →](./references/emotional-girl-lookbook.md)**
-
----
-
-### No. 7: Enchanted Forest Feather Dress
+### No. 4: Enchanted Forest Feather Dress
 
 #### ▶️ Video Preview
 
@@ -341,7 +257,7 @@ Author shows a feather couture dress in an enchanted-forest setting generated wi
 
 ---
 
-### No. 8: 4K Fashion Runway: Future
+### No. 5: 4K Fashion Runway: Future
 
 #### ▶️ Video Preview
 
@@ -369,7 +285,7 @@ YouTube title names Kling 3.0 for a cinematic fashion runway film with futuristi
 
 ---
 
-### No. 9: Live-Action Fashion Show
+### No. 6: Live-Action Fashion Show
 
 #### ▶️ Video Preview
 
@@ -397,7 +313,7 @@ Author labels a live-action fashion show created with Kling AI 4.0 and uses a Vi
 
 ---
 
-### No. 10: Living Flower Gowns
+### No. 7: Living Flower Gowns
 
 #### ▶️ Video Preview
 
@@ -425,91 +341,35 @@ Author shows gowns made of living flowers in a palace ballroom and names Kling 3
 
 ---
 
-### No. 11: Magical Girl Lookbook
+### No. 8: Pageant Evening Gown
 
 #### ▶️ Video Preview
 
 <div align="center">
-<img src="https://i.ytimg.com/vi/6TukgFBUc8s/hqdefault.jpg" width="460" alt="Magical Girl Lookbook">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2112365744214192128/img/OsOGdNwmzJ-t98ZX.jpg" width="460" alt="Pageant Evening Gown">
 </div>
 
-**[Watch original video →](https://www.youtube.com/watch?v=6TukgFBUc8s)**
+**[Watch original video →](https://video.twimg.com/amplify_video/2112365744214192128/vid/avc1/1920x1080/qO0W0MpoTyU1iDak.mp4)**
 
 This is a reference video, not a verified full prompt case.
 
-Creator tags the video as an AI lookbook and names 클링 3.0 / Kling 3.0 as the video tool. The public description does not include a complete Original Prompt.
+Author posted this clip as part of a Kling 4.0 test compilation titled “4 more Kling 4.0 Tests,” not as a standalone verified prompt case. The attached video is a pageant-stage evening-gown walk. The same media also appears on Post ID 2112366939200774348; this page keeps 2112367087242891434 as the source.
 
 #### 🏷️ Details
 
 - **Content Type:** Reference Video
 - **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Lookbook
-- **Product Category:** Full Outfit
-- **Creator:** 오늘의 너AI
-- **Source:** [View original source](https://www.youtube.com/watch?v=6TukgFBUc8s)
+- **Model:** Kling 4.0
+- **Fashion Use Case:** Runway
+- **Product Category:** Dress
+- **Creator:** FoldingEnd A.I. (@EndFolding79421)
+- **Source:** [View original source](https://x.com/EndFolding79421/status/2112367087242891434)
 
-**[View reference page →](./references/magical-girl-lookbook.md)**
-
----
-
-### No. 12: Maison Kitsune Fashion Ad
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://i.ytimg.com/vi/1KKN1EhJxNg/hqdefault.jpg" width="460" alt="Maison Kitsune Fashion Ad">
-</div>
-
-**[Watch original video →](https://www.youtube.com/watch?v=1KKN1EhJxNg)**
-
-This is a reference video, not a verified full prompt case.
-
-Author titles a cinematic Maison Kitsuné fashion ad made with Kling 3.0. The public description does not include a complete Original Prompt.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Fashion Commercial
-- **Product Category:** Full Outfit
-- **Creator:** Nouamane | AI Visuals
-- **Source:** [View original source](https://www.youtube.com/watch?v=1KKN1EhJxNg)
-
-**[View reference page →](./references/maison-kitsune-fashion-ad.md)**
+**[View reference page →](./references/pageant-evening-gown.md)**
 
 ---
 
-### No. 13: Model Fashion Shoot
-
-#### ▶️ Video Preview
-
-<div align="center">
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110254517316902912/img/Pfd0T1jw0v1oyOxa.jpg" width="460" alt="Model Fashion Shoot">
-</div>
-
-**[Watch original video →](https://video.twimg.com/amplify_video/2110254517316902912/vid/avc1/1076x1924/F7he-YocIOPmRC1o.mp4)**
-
-This is a reference video, not a verified full prompt case.
-
-Author describes a model in a fashion shoot generated with Kling 3.0 on Pollo AI. No public Original Prompt is included in the source post.
-
-#### 🏷️ Details
-
-- **Content Type:** Reference Video
-- **Prompt Availability:** Not Public
-- **Model:** Kling 3.0
-- **Fashion Use Case:** Fashion Editorial
-- **Product Category:** Full Outfit
-- **Creator:** $amuel (@theleerick)
-- **Source:** [View original source](https://x.com/theleerick/status/2110254654911041856)
-
-**[View reference page →](./references/model-fashion-shoot.md)**
-
----
-
-### No. 14: Paris Front Row Mismatched Look
+### No. 9: Paris Front Row Mismatched Look
 
 #### ▶️ Video Preview
 
@@ -537,7 +397,7 @@ Author posts a Paris front-row fashion look with mismatched socks and oversized 
 
 ---
 
-### No. 15: Wild Roses Couture Motion Film
+### No. 10: Wild Roses Couture Motion Film
 
 #### ▶️ Video Preview
 
@@ -562,6 +422,34 @@ Author describes an experimental haute couture fashion film made with Kling 4.0,
 - **Source:** [View original source](https://www.youtube.com/watch?v=1rxEy9yRVng)
 
 **[View reference page →](./references/wild-roses-couture-motion-film.md)**
+
+---
+
+### No. 11: Yellow Fringe Couture Gown
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2108590587180167168/img/VjeE-skZ5QSdF9Xt.jpg" width="460" alt="Yellow Fringe Couture Gown">
+</div>
+
+**[Watch original video →](https://video.twimg.com/amplify_video/2108590587180167168/vid/avc1/1280x720/3DmJCNeQLiPRohkk.mp4)**
+
+This is a reference video, not a verified full prompt case.
+
+Author names Kling 4.0 Flash for a yellow-and-blue fringe mermaid gown that moves from a hotel suite into a crystal ballroom. The source tweet includes a generation prompt; this page does not reproduce it and is not a verified full prompt case.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0 Flash
+- **Fashion Use Case:** Fashion Film
+- **Product Category:** Dress
+- **Creator:** ᴍᴜʀᴘʜʏ (@Diplomeme)
+- **Source:** [View original source](https://x.com/Diplomeme/status/2108590903946559787)
+
+**[View reference page →](./references/yellow-fringe-couture-gown.md)**
 
 ## 🧩 Browse Fashion Prompts by Category
 
