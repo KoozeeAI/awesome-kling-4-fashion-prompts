@@ -50,11 +50,11 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 | Total Prompts | 3 |
 | Video Prompts | 3 |
 | Verified Prompt Cases | 3 |
-| Kling Video References | 11 |
+| Kling Video References | 16 |
 | Kling 4.0 Cases | 1 |
 | Kling 4.0 Flash Cases | 1 |
 | Kling 3.0 Reference Cases | 1 |
-| Kling 4.0 Video References | 5 |
+| Kling 4.0 Video References | 10 |
 | Kling 4.0 Flash Video References | 2 |
 | Kling 3.0 Video References | 4 |
 | Unspecified Kling Video References | 0 |
@@ -214,7 +214,35 @@ YouTube title names Kling 3.0 for a 4K haute runway film with distinct couture l
 
 ---
 
-### No. 2: Black-and-White Leather Editorial
+### No. 2: Atelier Autumn Ready-to-Wear Coat Ad
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115301902829203456/img/C27ycluwE8J9KmQ9.jpg" width="460" alt="Atelier Autumn Ready-to-Wear Coat Ad">
+</div>
+
+**[Watch original video →](https://video.twimg.com/amplify_video/2115301902829203456/vid/avc1/1920x1080/jnlkZrJgWbLyuJDO.mp4)**
+
+This is a reference video, not a verified full prompt case.
+
+Atelier autumn ready-to-wear coat commercial described as a continuous take. Source names Kling 4.0; prompt text is not reproduced.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0
+- **Fashion Use Case:** Campaign
+- **Product Category:** Outerwear
+- **Creator:** HiAPI (@hiapi_ai)
+- **Source:** [View original source](https://x.com/hiapi_ai/status/2115302115199291554)
+
+**[View reference page →](./references/atelier-autumn-ready-to-wear-coat-ad.md)**
+
+---
+
+### No. 3: Black-and-White Leather Editorial
 
 #### ▶️ Video Preview
 
@@ -242,7 +270,7 @@ Author names Kling 4.0 Flash for a cinematic black-and-white leather fashion vid
 
 ---
 
-### No. 3: Chrysalis Avant-Garde Couture
+### No. 4: Chrysalis Avant-Garde Couture
 
 #### ▶️ Video Preview
 
@@ -270,7 +298,35 @@ Author titles an avant-garde couture film Chrysalis and names Kling 4.0, describ
 
 ---
 
-### No. 4: Enchanted Forest Feather Dress
+### No. 5: Dobidobi Outfit Fashion Edit Walk
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115678395996770304/img/zqjTZh5FuQs8hAwQ.jpg" width="460" alt="Dobidobi Outfit Fashion Edit Walk">
+</div>
+
+**[Watch original video →](https://video.twimg.com/amplify_video/2115678395996770304/vid/avc1/810x720/4WMtxgOLVKcA7yDw.mp4?tag=14)**
+
+This is a reference video, not a verified full prompt case.
+
+Outfit fashion edit with street-to-jewelry camera moves. Source names Kling 4.0; prompt text is not reproduced.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0
+- **Fashion Use Case:** Fashion Edit
+- **Product Category:** Full Outfit
+- **Creator:** dobidobi (@dobidobiai)
+- **Source:** [View original source](https://x.com/dobidobiai/status/2115678755268227340)
+
+**[View reference page →](./references/dobidobi-outfit-fashion-edit-walk.md)**
+
+---
+
+### No. 6: Enchanted Forest Feather Dress
 
 #### ▶️ Video Preview
 
@@ -298,7 +354,7 @@ Author shows a feather couture dress in an enchanted-forest setting generated wi
 
 ---
 
-### No. 5: 4K Fashion Runway: Future
+### No. 7: 4K Fashion Runway: Future
 
 #### ▶️ Video Preview
 
@@ -326,7 +382,63 @@ YouTube title names Kling 3.0 for a cinematic fashion runway film with futuristi
 
 ---
 
-### No. 6: Live-Action Fashion Show
+### No. 8: Heliot Emil Core Uniform Campaign BTS
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HWht5-7WoAAxkjT.jpg" width="460" alt="Heliot Emil Core Uniform Campaign BTS">
+</div>
+
+**[Watch original video →](https://video.twimg.com/amplify_video/2119062090967035904/vid/avc1/1920x1080/F3sTSru573FaEjx8.mp4)**
+
+This is a reference video, not a verified full prompt case.
+
+Official HELIOT EMIL CORE UNIFORM campaign BTS from Kling AI. Primary Source URL over the YouTube mirror. Prompt text is not reproduced.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0
+- **Fashion Use Case:** Campaign
+- **Product Category:** Full Outfit
+- **Creator:** Kling AI (@Kling_ai)
+- **Source:** [View original source](https://x.com/Kling_ai/status/2119074897230233831)
+
+**[View reference page →](./references/heliot-emil-core-uniform-campaign-bts.md)**
+
+---
+
+### No. 9: Ivory Teal Sneaker Rooftop Commercial
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116825977284444160/img/WAXT3SCRHtmsS2nj.jpg" width="460" alt="Ivory Teal Sneaker Rooftop Commercial">
+</div>
+
+**[Watch original video →](https://video.twimg.com/amplify_video/2116825977284444160/vid/avc1/1920x1080/3_scYLX9gdlSkI7e.mp4)**
+
+This is a reference video, not a verified full prompt case.
+
+Ivory-and-teal sneaker rooftop product commercial. Source names Kling 4.0; prompt text is not reproduced.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0
+- **Fashion Use Case:** Campaign
+- **Product Category:** Shoes
+- **Creator:** Pushpendra Tripathi (@pushpendratips)
+- **Source:** [View original source](https://x.com/pushpendratips/status/2116826356428538078)
+
+**[View reference page →](./references/ivory-teal-sneaker-rooftop-commercial.md)**
+
+---
+
+### No. 10: Live-Action Fashion Show
 
 #### ▶️ Video Preview
 
@@ -354,7 +466,7 @@ Author labels a live-action fashion show created with Kling AI 4.0 and uses a Vi
 
 ---
 
-### No. 7: Living Flower Gowns
+### No. 11: Living Flower Gowns
 
 #### ▶️ Video Preview
 
@@ -382,7 +494,7 @@ Author shows gowns made of living flowers in a palace ballroom and names Kling 3
 
 ---
 
-### No. 8: Pageant Evening Gown
+### No. 12: Pageant Evening Gown
 
 #### ▶️ Video Preview
 
@@ -410,7 +522,7 @@ Author posted this clip as part of a Kling 4.0 test compilation titled “4 more
 
 ---
 
-### No. 9: Paris Front Row Mismatched Look
+### No. 13: Paris Front Row Mismatched Look
 
 #### ▶️ Video Preview
 
@@ -438,7 +550,35 @@ Author posts a Paris front-row fashion look with mismatched socks and oversized 
 
 ---
 
-### No. 10: Wild Roses Couture Motion Film
+### No. 14: Westelle Concept Fashion Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://i.ytimg.com/vi/fMlAp0-gCW8/hqdefault.jpg" width="460" alt="Westelle Concept Fashion Film">
+</div>
+
+**[Watch original video →](https://www.youtube.com/watch?v=fMlAp0-gCW8)**
+
+This is a reference video, not a verified full prompt case.
+
+Concept fashion film exploring city-nature contrast and minimalist dress forms. Source names Kling 4.0; no complete prompt is published here.
+
+#### 🏷️ Details
+
+- **Content Type:** Reference Video
+- **Prompt Availability:** Not Public
+- **Model:** Kling 4.0
+- **Fashion Use Case:** Fashion Film
+- **Product Category:** Dress
+- **Creator:** Thunder Al Art & Al Works
+- **Source:** [View original source](https://www.youtube.com/watch?v=fMlAp0-gCW8)
+
+**[View reference page →](./references/westelle-concept-fashion-film.md)**
+
+---
+
+### No. 15: Wild Roses Couture Motion Film
 
 #### ▶️ Video Preview
 
@@ -466,7 +606,7 @@ Author describes an experimental haute couture fashion film made with Kling 4.0,
 
 ---
 
-### No. 11: Yellow Fringe Couture Gown
+### No. 16: Yellow Fringe Couture Gown
 
 #### ▶️ Video Preview
 

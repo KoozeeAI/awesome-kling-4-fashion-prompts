@@ -39,11 +39,11 @@
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
-  "kling_video_references": 11,
+  "kling_video_references": 16,
   "model_distribution": {
     "kling_video_references": {
       "kling-3-0": 4,
-      "kling-4-0": 5,
+      "kling-4-0": 10,
       "kling-4-0-flash": 2,
       "unspecified-kling": 0
     },
@@ -65,6 +65,17 @@
       "raw_model": "Kling 3.0",
       "source_path": "references/4k-runway-dreams.md",
       "title": "4K Runway Dreams"
+    },
+    {
+      "fashion_use_case": "Campaign",
+      "filename": "atelier-autumn-ready-to-wear-coat-ad.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Outerwear",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/atelier-autumn-ready-to-wear-coat-ad.md",
+      "title": "Atelier Autumn Ready-to-Wear Coat Ad"
     },
     {
       "fashion_use_case": "Fashion Editorial",
@@ -89,6 +100,17 @@
       "title": "Chrysalis Avant-Garde Couture"
     },
     {
+      "fashion_use_case": "Fashion Edit",
+      "filename": "dobidobi-outfit-fashion-edit-walk.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/dobidobi-outfit-fashion-edit-walk.md",
+      "title": "Dobidobi Outfit Fashion Edit Walk"
+    },
+    {
       "fashion_use_case": "Fashion Film",
       "filename": "enchanted-forest-feather-dress.md",
       "layer": "video_reference",
@@ -109,6 +131,28 @@
       "raw_model": "Kling 3.0",
       "source_path": "references/future-fashion-runway.md",
       "title": "4K Fashion Runway: Future"
+    },
+    {
+      "fashion_use_case": "Campaign",
+      "filename": "heliot-emil-core-uniform-campaign-bts.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Full Outfit",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/heliot-emil-core-uniform-campaign-bts.md",
+      "title": "Heliot Emil Core Uniform Campaign BTS"
+    },
+    {
+      "fashion_use_case": "Campaign",
+      "filename": "ivory-teal-sneaker-rooftop-commercial.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Shoes",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/ivory-teal-sneaker-rooftop-commercial.md",
+      "title": "Ivory Teal Sneaker Rooftop Commercial"
     },
     {
       "fashion_use_case": "Runway",
@@ -153,6 +197,17 @@
       "raw_model": "Kling 4.0",
       "source_path": "references/paris-front-row-mismatched-look.md",
       "title": "Paris Front Row Mismatched Look"
+    },
+    {
+      "fashion_use_case": "Fashion Film",
+      "filename": "westelle-concept-fashion-film.md",
+      "layer": "video_reference",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Dress",
+      "prompt_availability": "Not Public",
+      "raw_model": "Kling 4.0",
+      "source_path": "references/westelle-concept-fashion-film.md",
+      "title": "Westelle Concept Fashion Film"
     },
     {
       "fashion_use_case": "Fashion Film",
