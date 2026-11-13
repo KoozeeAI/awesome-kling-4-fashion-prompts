@@ -8,3 +8,7 @@ Explore prompts by the fashion product featured in each case.
 
 - [Burgundy Tiered Mini Dress Paris Runway](../cases/burgundy-tiered-mini-dress-paris-runway.md)
 - [Met Gala Haute Couture Gown Film](../cases/met-gala-haute-couture-gown-film.md)
+
+### Mixed Fashion (1)
+
+- [Beige Top Denim Fashion Reel](../cases/beige-top-denim-fashion-reel.md)

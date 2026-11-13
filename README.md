@@ -47,23 +47,64 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 2 |
-| Video Prompts | 2 |
-| Verified Prompt Cases | 2 |
+| Total Prompts | 3 |
+| Video Prompts | 3 |
+| Verified Prompt Cases | 3 |
 | Kling Video References | 11 |
-| Kling 4.0 Cases | 0 |
+| Kling 4.0 Cases | 1 |
 | Kling 4.0 Flash Cases | 1 |
 | Kling 3.0 Reference Cases | 1 |
 | Kling 4.0 Video References | 5 |
 | Kling 4.0 Flash Video References | 2 |
 | Kling 3.0 Video References | 4 |
 | Unspecified Kling Video References | 0 |
-| Product Categories | 1 |
-| Fashion Use Cases | 2 |
+| Product Categories | 2 |
+| Fashion Use Cases | 3 |
 
 ## ✨ Verified Prompt Cases
 
-### No. 1: Burgundy Tiered Mini Dress Paris Runway
+### No. 1: Beige Top Denim Fashion Reel
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2120383301709869056/img/yqWztWBbea-Jla_J.jpg" width="460" alt="Beige Top Denim Fashion Reel">
+</div>
+
+**[Watch original video →](https://x.com/Sharjeelai_786/status/2120383381049336285)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Mixed Fashion · Social fashion reel / model pose showcase · Video.
+
+#### 💬 Prompt Preview
+
+```
+Create a 13-second vertical 9:16 ultra-realistic cinematic fashion/lifestyle video featuring a beautiful young blonde woman with long, voluminous wavy hair, wearing a fitted beige short-sleeve top and high-waisted light-blue denim shorts, standing in a luxurious modern bathroom with dark marble walls and warm ambient lighting.
+
+She looks confidently into the camera and performs a smooth, playful sequence of fashion-model poses and subtle dance movements. Start with a medium full-body shot as she raises one hand and poses naturally. She then turns slightly to the side, showing her outfit from a flattering side angle, before facing the camera again and moving her arms rhythmically.
+
+Continue with elegant hair-touching and confident poses, maintaining natural body movement and realistic facial expressions. Near the end, smoothly push the camera closer as she leans slightly toward the camera, gives a playful kiss gesture, and finishes with a charming smile.
+
+Use realistic skin texture, det
+```
+...
+
+**[View full prompt →](./cases/beige-top-denim-fashion-reel.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 4.0
+- **Media Type:** Video
+- **Fashion Use Case:** Social fashion reel / model pose showcase
+- **Content Category:** Model Showcase
+- **Product Category:** Mixed Fashion
+- **Creator:** SharjeelAi (@Sharjeelai_786)
+- **Source:** [View original source](https://x.com/Sharjeelai_786/status/2120383381049336285)
+
+---
+
+### No. 2: Burgundy Tiered Mini Dress Paris Runway
 
 **[Watch original video →](https://x.com/Diplomeme/status/2109983638242947120)**
 
@@ -106,7 +147,7 @@ thin adjustable shoulder straps,
 
 ---
 
-### No. 2: Met Gala Haute Couture Gown Film
+### No. 3: Met Gala Haute Couture Gown Film
 
 #### ▶️ Video Preview
 

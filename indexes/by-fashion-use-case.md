@@ -11,3 +11,7 @@ Explore prompts by their intended fashion use case.
 ### Runway (1)
 
 - [Burgundy Tiered Mini Dress Paris Runway](../cases/burgundy-tiered-mini-dress-paris-runway.md)
+
+### Social fashion reel / model pose showcase (1)
+
+- [Beige Top Denim Fashion Reel](../cases/beige-top-denim-fashion-reel.md)

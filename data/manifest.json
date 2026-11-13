@@ -1,6 +1,18 @@
 {
-  "case_count": 2,
+  "case_count": 3,
   "cases": [
+    {
+      "content_category": "Model Showcase",
+      "fashion_use_case": "Social fashion reel / model pose showcase",
+      "filename": "beige-top-denim-fashion-reel.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Mixed Fashion",
+      "raw_model": "Kling 4.0",
+      "source_path": "cases/beige-top-denim-fashion-reel.md",
+      "title": "Beige Top Denim Fashion Reel"
+    },
     {
       "content_category": "Model Showcase",
       "fashion_use_case": "Runway",
@@ -37,7 +49,7 @@
     },
     "verified_prompt_cases": {
       "kling-3-0": 1,
-      "kling-4-0": 0,
+      "kling-4-0": 1,
       "kling-4-0-flash": 1
     }
   },
@@ -166,5 +178,5 @@
     }
   ],
   "repository": "KoozeeAI/awesome-kling-4-fashion-prompts",
-  "verified_prompt_cases": 2
+  "verified_prompt_cases": 3
 }
