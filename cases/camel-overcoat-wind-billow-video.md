@@ -10,6 +10,7 @@ A strong gust of wind comes from the left: the open camel coat billows and flaps
 
 - Model: Kling 3.0
 - Media Type: Video
+- Preview Image URL: https://media.blurbly.ai/blurbly/prompts/kling-3-0-fashion-footwear-video/overcoat-wind-2.webp
 - Video URL: https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-overcoat-wind
 - Media Asset Source: https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-overcoat-wind
 - Fashion Use Case: Outerwear image-to-video with coat fabric motion, fit, and color-cut fidelity

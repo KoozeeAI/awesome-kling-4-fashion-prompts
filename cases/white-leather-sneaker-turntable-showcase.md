@@ -10,6 +10,7 @@ The turntable rotates slowly and smoothly about a quarter turn (90 degrees) so t
 
 - Model: Kling 3.0
 - Media Type: Video
+- Preview Image URL: https://media.blurbly.ai/blurbly/prompts/kling-3-0-fashion-footwear-video/sneaker-turntable.webp
 - Video URL: https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-sneaker-turntable
 - Media Asset Source: https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-sneaker-turntable
 - Fashion Use Case: Footwear Product Presentation

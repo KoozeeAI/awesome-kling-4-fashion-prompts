@@ -10,6 +10,7 @@ Create a new video where, in a sunlit white studio, a woman in an Etro paisley s
 
 - Model: Kling 3.0
 - Media Type: Video
+- Preview Image URL: https://auth.emero.studio/storage/v1/object/public/studio-content/a3590f8d-0ca8-476a-8883-558291ded03c/a9e9c659-1b70-4596-96e2-7cdd837e887b_emero.jpg
 - Video URL: https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-handbag-pegasus
 - Media Asset Source: https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-handbag-pegasus
 - Fashion Use Case: Fashion Accessory Commercial

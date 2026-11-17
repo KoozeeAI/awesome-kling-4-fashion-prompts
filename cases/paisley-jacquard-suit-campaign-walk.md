@@ -10,6 +10,7 @@ Create a new video where a confident woman in an Etro paisley suit walks into an
 
 - Model: Kling 3.0
 - Media Type: Video
+- Preview Image URL: https://auth.emero.studio/storage/v1/object/public/studio-content/a3590f8d-0ca8-476a-8883-558291ded03c/db1675eb-2fc9-4261-a91e-6a04260ad3b1_emero.jpg
 - Video URL: https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-suit-walk
 - Media Asset Source: https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-suit-walk
 - Fashion Use Case: Fashion Campaign

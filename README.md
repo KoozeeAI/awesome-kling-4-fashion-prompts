@@ -149,6 +149,12 @@ thin adjustable shoulder straps,
 
 ### No. 3: Camel Overcoat Wind Billow Video
 
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://media.blurbly.ai/blurbly/prompts/kling-3-0-fashion-footwear-video/overcoat-wind-2.webp" width="460" alt="Camel Overcoat Wind Billow Video">
+</div>
+
 **[Watch original video →](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-overcoat-wind)**
 
 #### 📝 About This Case
@@ -176,6 +182,12 @@ A strong gust of wind comes from the left: the open camel coat billows and flaps
 ---
 
 ### No. 4: Macro Leather Boot Lacing Demo
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://media.blurbly.ai/blurbly/prompts/kling-3-0-fashion-footwear-video/boot-lacing.webp" width="460" alt="Macro Leather Boot Lacing Demo">
+</div>
 
 **[Watch original video →](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-boot-lacing)**
 
@@ -244,6 +256,12 @@ High-octane, hyper-realistic fashion sequence in the style of Christopher Nolan,
 
 ### No. 6: Mock-Neck Tee Denim Shorts Commercial
 
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://vcgonaajynphvlxyszxx.supabase.co/storage/v1/object/public/thumbnails/input-images/a08e5c54-97d4-46dd-a57d-7d05ec11a897/3857b304-d9f7-4d6a-aad3-900a9a1a6cf3.jpg" width="460" alt="Mock-Neck Tee Denim Shorts Commercial">
+</div>
+
 **[Watch original video →](https://gvideo.ai/share/93f5dd3c-acf1-4e52-a521-2ebdcf9e6479)**
 
 #### 📝 About This Case
@@ -277,6 +295,12 @@ She then softly
 
 ### No. 7: Olive Velvet Handbag Studio Commercial
 
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://auth.emero.studio/storage/v1/object/public/studio-content/a3590f8d-0ca8-476a-8883-558291ded03c/a9e9c659-1b70-4596-96e2-7cdd837e887b_emero.jpg" width="460" alt="Olive Velvet Handbag Studio Commercial">
+</div>
+
 **[Watch original video →](https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-handbag-pegasus)**
 
 #### 📝 About This Case
@@ -306,6 +330,12 @@ Create a new video where, in a sunlit white studio, a woman in an Etro paisley s
 
 ### No. 8: Paisley Jacquard Suit Campaign Walk
 
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://auth.emero.studio/storage/v1/object/public/studio-content/a3590f8d-0ca8-476a-8883-558291ded03c/db1675eb-2fc9-4261-a91e-6a04260ad3b1_emero.jpg" width="460" alt="Paisley Jacquard Suit Campaign Walk">
+</div>
+
 **[Watch original video →](https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-suit-walk)**
 
 #### 📝 About This Case
@@ -334,6 +364,12 @@ Create a new video where a confident woman in an Etro paisley suit walks into an
 ---
 
 ### No. 9: White Leather Sneaker Turntable Showcase
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://media.blurbly.ai/blurbly/prompts/kling-3-0-fashion-footwear-video/sneaker-turntable.webp" width="460" alt="White Leather Sneaker Turntable Showcase">
+</div>
 
 **[Watch original video →](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-sneaker-turntable)**
 

@@ -18,6 +18,7 @@ Ultra realistic. Natural human motion. Realistic hand and finger movement. Reali
 
 - Model: Kling 3.0
 - Media Type: Video
+- Preview Image URL: https://vcgonaajynphvlxyszxx.supabase.co/storage/v1/object/public/thumbnails/input-images/a08e5c54-97d4-46dd-a57d-7d05ec11a897/3857b304-d9f7-4d6a-aad3-900a9a1a6cf3.jpg
 - Video URL: https://gvideo.ai/share/93f5dd3c-acf1-4e52-a521-2ebdcf9e6479
 - Media Asset Source: https://gvideo.ai/share/93f5dd3c-acf1-4e52-a521-2ebdcf9e6479
 - Fashion Use Case: Product Commercial

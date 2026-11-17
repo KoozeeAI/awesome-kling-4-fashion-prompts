@@ -10,6 +10,7 @@ Both hands pull the laces tight, cross them and tie a neat bow at the top of the
 
 - Model: Kling 3.0
 - Media Type: Video
+- Preview Image URL: https://media.blurbly.ai/blurbly/prompts/kling-3-0-fashion-footwear-video/boot-lacing.webp
 - Video URL: https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-boot-lacing
 - Media Asset Source: https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-boot-lacing
 - Fashion Use Case: Footwear product video
