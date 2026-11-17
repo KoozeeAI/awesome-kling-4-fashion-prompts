@@ -111,14 +111,7 @@
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
-  "kling_video_references": 11,
   "model_distribution": {
-    "kling_video_references": {
-      "kling-3-0": 4,
-      "kling-4-0": 5,
-      "kling-4-0-flash": 2,
-      "unspecified-kling": 0
-    },
     "verified_prompt_cases": {
       "kling-3-0": 7,
       "kling-4-0": 1,
@@ -126,129 +119,6 @@
     }
   },
   "normalized_model_key": "kling-4-0",
-  "references": [
-    {
-      "fashion_use_case": "Runway",
-      "filename": "4k-runway-dreams.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-3-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 3.0",
-      "source_path": "references/4k-runway-dreams.md",
-      "title": "4K Runway Dreams"
-    },
-    {
-      "fashion_use_case": "Fashion Editorial",
-      "filename": "black-white-leather-editorial.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0-flash",
-      "product_category": "Full Outfit",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0 Flash",
-      "source_path": "references/black-white-leather-editorial.md",
-      "title": "Black-and-White Leather Editorial"
-    },
-    {
-      "fashion_use_case": "Fashion Film",
-      "filename": "chrysalis-avant-garde-couture.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0",
-      "source_path": "references/chrysalis-avant-garde-couture.md",
-      "title": "Chrysalis Avant-Garde Couture"
-    },
-    {
-      "fashion_use_case": "Fashion Film",
-      "filename": "enchanted-forest-feather-dress.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-3-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 3.0",
-      "source_path": "references/enchanted-forest-feather-dress.md",
-      "title": "Enchanted Forest Feather Dress"
-    },
-    {
-      "fashion_use_case": "Runway",
-      "filename": "future-fashion-runway.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-3-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 3.0",
-      "source_path": "references/future-fashion-runway.md",
-      "title": "4K Fashion Runway: Future"
-    },
-    {
-      "fashion_use_case": "Runway",
-      "filename": "live-action-fashion-show.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0",
-      "product_category": "Full Outfit",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0",
-      "source_path": "references/live-action-fashion-show.md",
-      "title": "Live-Action Fashion Show"
-    },
-    {
-      "fashion_use_case": "Fashion Film",
-      "filename": "living-flower-gowns.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-3-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 3.0",
-      "source_path": "references/living-flower-gowns.md",
-      "title": "Living Flower Gowns"
-    },
-    {
-      "fashion_use_case": "Runway",
-      "filename": "pageant-evening-gown.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0",
-      "source_path": "references/pageant-evening-gown.md",
-      "title": "Pageant Evening Gown"
-    },
-    {
-      "fashion_use_case": "Runway",
-      "filename": "paris-front-row-mismatched-look.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0",
-      "product_category": "Full Outfit",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0",
-      "source_path": "references/paris-front-row-mismatched-look.md",
-      "title": "Paris Front Row Mismatched Look"
-    },
-    {
-      "fashion_use_case": "Fashion Film",
-      "filename": "wild-roses-couture-motion-film.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0",
-      "source_path": "references/wild-roses-couture-motion-film.md",
-      "title": "Wild Roses Couture Motion Film"
-    },
-    {
-      "fashion_use_case": "Fashion Film",
-      "filename": "yellow-fringe-couture-gown.md",
-      "layer": "video_reference",
-      "normalized_model_key": "kling-4-0-flash",
-      "product_category": "Dress",
-      "prompt_availability": "Not Public",
-      "raw_model": "Kling 4.0 Flash",
-      "source_path": "references/yellow-fringe-couture-gown.md",
-      "title": "Yellow Fringe Couture Gown"
-    }
-  ],
   "repository": "KoozeeAI/awesome-kling-4-fashion-prompts",
   "verified_prompt_cases": 9
 }
