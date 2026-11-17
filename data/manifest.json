@@ -1,5 +1,5 @@
 {
-  "case_count": 3,
+  "case_count": 9,
   "cases": [
     {
       "content_category": "Model Showcase",
@@ -26,6 +26,30 @@
       "title": "Burgundy Tiered Mini Dress Paris Runway"
     },
     {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Outerwear image-to-video with coat fabric motion, fit, and color-cut fidelity",
+      "filename": "camel-overcoat-wind-billow-video.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Outerwear",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/camel-overcoat-wind-billow-video.md",
+      "title": "Camel Overcoat Wind Billow Video"
+    },
+    {
+      "content_category": "Product Demo",
+      "fashion_use_case": "Footwear product video",
+      "filename": "macro-leather-boot-lacing-demo.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Shoes",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/macro-leather-boot-lacing-demo.md",
+      "title": "Macro Leather Boot Lacing Demo"
+    },
+    {
       "content_category": "Cinematic Campaign",
       "fashion_use_case": "Fashion Film",
       "filename": "met-gala-haute-couture-gown-film.md",
@@ -36,6 +60,54 @@
       "raw_model": "Kling 3.0",
       "source_path": "cases/met-gala-haute-couture-gown-film.md",
       "title": "Met Gala Haute Couture Gown Film"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Product Commercial",
+      "filename": "mock-neck-tee-denim-shorts-commercial.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/mock-neck-tee-denim-shorts-commercial.md",
+      "title": "Mock-Neck Tee Denim Shorts Commercial"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Fashion Accessory Commercial",
+      "filename": "olive-velvet-handbag-studio-commercial.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Handbag",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/olive-velvet-handbag-studio-commercial.md",
+      "title": "Olive Velvet Handbag Studio Commercial"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Fashion Campaign",
+      "filename": "paisley-jacquard-suit-campaign-walk.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Full Outfit",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/paisley-jacquard-suit-campaign-walk.md",
+      "title": "Paisley Jacquard Suit Campaign Walk"
+    },
+    {
+      "content_category": "Product Commercial",
+      "fashion_use_case": "Footwear Product Presentation",
+      "filename": "white-leather-sneaker-turntable-showcase.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Shoes",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/white-leather-sneaker-turntable-showcase.md",
+      "title": "White Leather Sneaker Turntable Showcase"
     }
   ],
   "generated_from": "KoozeeAI/ai-fashion-prompts",
@@ -48,7 +120,7 @@
       "unspecified-kling": 0
     },
     "verified_prompt_cases": {
-      "kling-3-0": 1,
+      "kling-3-0": 7,
       "kling-4-0": 1,
       "kling-4-0-flash": 1
     }
@@ -178,5 +250,5 @@
     }
   ],
   "repository": "KoozeeAI/awesome-kling-4-fashion-prompts",
-  "verified_prompt_cases": 3
+  "verified_prompt_cases": 9
 }

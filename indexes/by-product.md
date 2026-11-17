@@ -9,6 +9,24 @@ Explore prompts by the fashion product featured in each case.
 - [Burgundy Tiered Mini Dress Paris Runway](../cases/burgundy-tiered-mini-dress-paris-runway.md)
 - [Met Gala Haute Couture Gown Film](../cases/met-gala-haute-couture-gown-film.md)
 
+### Outerwear (1)
+
+- [Camel Overcoat Wind Billow Video](../cases/camel-overcoat-wind-billow-video.md)
+
+### Shoes (2)
+
+- [Macro Leather Boot Lacing Demo](../cases/macro-leather-boot-lacing-demo.md)
+- [White Leather Sneaker Turntable Showcase](../cases/white-leather-sneaker-turntable-showcase.md)
+
+### Handbag (1)
+
+- [Olive Velvet Handbag Studio Commercial](../cases/olive-velvet-handbag-studio-commercial.md)
+
+### Full Outfit (2)
+
+- [Mock-Neck Tee Denim Shorts Commercial](../cases/mock-neck-tee-denim-shorts-commercial.md)
+- [Paisley Jacquard Suit Campaign Walk](../cases/paisley-jacquard-suit-campaign-walk.md)
+
 ### Mixed Fashion (1)
 
 - [Beige Top Denim Fashion Reel](../cases/beige-top-denim-fashion-reel.md)

@@ -47,19 +47,19 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 3 |
-| Video Prompts | 3 |
-| Verified Prompt Cases | 3 |
+| Total Prompts | 9 |
+| Video Prompts | 9 |
+| Verified Prompt Cases | 9 |
 | Kling Video References | 11 |
 | Kling 4.0 Cases | 1 |
 | Kling 4.0 Flash Cases | 1 |
-| Kling 3.0 Reference Cases | 1 |
+| Kling 3.0 Reference Cases | 7 |
 | Kling 4.0 Video References | 5 |
 | Kling 4.0 Flash Video References | 2 |
 | Kling 3.0 Video References | 4 |
 | Unspecified Kling Video References | 0 |
-| Product Categories | 2 |
-| Fashion Use Cases | 3 |
+| Product Categories | 6 |
+| Fashion Use Cases | 9 |
 
 ## ✨ Verified Prompt Cases
 
@@ -147,7 +147,63 @@ thin adjustable shoulder straps,
 
 ---
 
-### No. 3: Met Gala Haute Couture Gown Film
+### No. 3: Camel Overcoat Wind Billow Video
+
+**[Watch original video →](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-overcoat-wind)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Outerwear · Outerwear image-to-video with coat fabric motion, fit, and color-cut fidelity · Video.
+
+#### 💬 Prompt Preview
+
+```
+A strong gust of wind comes from the left: the open camel coat billows and flaps behind him, the hem swings back, then settles as the gust passes. He keeps his head turned to the left, looking off into the distance, and pulls the left lapel closed with his right hand. Slow cinematic push-in. Blue-hour light with a warm rim light from the left. His face, the camel color and the cut of the coat stay exactly the same as the first frame.
+```
+
+**[View full prompt →](./cases/camel-overcoat-wind-billow-video.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Outerwear image-to-video with coat fabric motion, fit, and color-cut fidelity
+- **Content Category:** Creative Fashion Video
+- **Product Category:** Outerwear
+- **Creator:** Blurbly
+- **Source:** [View original source](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-overcoat-wind)
+
+---
+
+### No. 4: Macro Leather Boot Lacing Demo
+
+**[Watch original video →](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-boot-lacing)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Footwear product video · Video.
+
+#### 💬 Prompt Preview
+
+```
+Both hands pull the laces tight, cross them and tie a neat bow at the top of the boot, then give the bow a short final tug. The leather creases naturally at the ankle. Static macro camera, shallow depth of field, warm morning light. Exactly two hands with five fingers each; the boot, brass eyelets and brown laces stay the same as the first frame.
+```
+
+**[View full prompt →](./cases/macro-leather-boot-lacing-demo.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Footwear product video
+- **Content Category:** Product Demo
+- **Product Category:** Shoes
+- **Creator:** Blurbly
+- **Source:** [View original source](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-boot-lacing)
+
+---
+
+### No. 5: Met Gala Haute Couture Gown Film
 
 #### ▶️ Video Preview
 
@@ -183,6 +239,125 @@ High-octane, hyper-realistic fashion sequence in the style of Christopher Nolan,
 - **Product Category:** Dress
 - **Creator:** ᴍᴜʀᴘʜʏ (@Diplomeme)
 - **Source:** [View original source](https://x.com/Diplomeme/status/2090136981112250653)
+
+---
+
+### No. 6: Mock-Neck Tee Denim Shorts Commercial
+
+**[Watch original video →](https://gvideo.ai/share/93f5dd3c-acf1-4e52-a521-2ebdcf9e6479)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Product Commercial · Video.
+
+#### 💬 Prompt Preview
+
+```
+The woman in the reference image comes to life. She is wearing the exact same black fitted mock-neck baby tee and dark denim shorts shown in the reference image. The clothing, face, hairstyle, body proportions, accessories, colors, fit, neckline, sleeves, hem, and fabric texture must remain exactly the same throughout the entire video.
+The video is a premium fashion campaign for a clothing brand. The model walks naturally toward the camera with a relaxed, confident posture and a soft, genuine smile. Every movement is smooth, fluid, elegant, and completely natural, like an experienced professional fashion model.
+As she approaches, she naturally raises her right hand and gently brushes her fingertips across the neckline, feeling the softness of the fabric with a relaxed wrist and delicate finger movement. The gesture is effortless and realistic, never exaggerated or posed.
+The camera smoothly moves closer to capture a detailed close-up of the neckline and fabric texture.
+She then softly
+```
+...
+
+**[View full prompt →](./cases/mock-neck-tee-denim-shorts-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Product Commercial
+- **Content Category:** Product Commercial
+- **Product Category:** Full Outfit
+- **Creator:** gVideo.ai share a08e5c54
+- **Source:** [View original source](https://gvideo.ai/share/93f5dd3c-acf1-4e52-a521-2ebdcf9e6479)
+
+---
+
+### No. 7: Olive Velvet Handbag Studio Commercial
+
+**[Watch original video →](https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-handbag-pegasus)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Handbag · Fashion Accessory Commercial · Video.
+
+#### 💬 Prompt Preview
+
+```
+Create a new video where, in a sunlit white studio, a woman in an Etro paisley suit takes an olive-green velvet handbag from the mouth of a full-size jet-black winged horse — a Pegasus whose huge black feathered wings stay clearly visible on its back the entire time — then she and the Pegasus turn and walk off together to the right side of the frame, side by side, leaving the room empty; only then does the Etro logo, a black winged-horse emblem above the word ETRO, snap onto the white wall. One continuous, locked-off wide shot; regal, surreal, high-end fashion-campaign finish, soft window daylight from the left. ONE single woman and ONE single horse, no clones. Her face, hair, build and outfit stay exactly as in the starting frame. The horse stays the SAME full adult size, the same build and the same huge wings in every single frame — it never shrinks, never becomes a foal or pony, and its wings never disappear. [SCENE 1] THE STARTING FRAME: the woman stands in the left third in the wi
+```
+...
+
+**[View full prompt →](./cases/olive-velvet-handbag-studio-commercial.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Fashion Accessory Commercial
+- **Content Category:** Product Commercial
+- **Product Category:** Handbag
+- **Creator:** Emero
+- **Source:** [View original source](https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-handbag-pegasus)
+
+---
+
+### No. 8: Paisley Jacquard Suit Campaign Walk
+
+**[Watch original video →](https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-suit-walk)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Full Outfit · Fashion Campaign · Video.
+
+#### 💬 Prompt Preview
+
+```
+Create a new video where a confident woman in an Etro paisley suit walks into an empty, sunlit white studio from the right side of the frame, crosses the floor toward the tall window on the left, and settles into a poised standing pose in the window's pool of daylight, gazing back toward the open right side of the room as if expecting someone. One continuous, locked-off wide shot; bright, airy, premium fashion-campaign look, soft window daylight from the left. ONE single woman, no clones. The woman: an Italian woman in her early thirties, slim-athletic build, warm olive skin with an olive undertone, dark brown hair in a low loose chignon with a few strands framing her face, natural real skin, minimal makeup; she wears a single-breasted jacquard blazer with a teal, emerald and oxblood paisley motif on a charcoal ground with a black velvet collar, worn buttoned, flared high-waisted black chenille-jacquard trousers with a teal, turquoise and oxblood paisley motif, and black pointed-toe an
+```
+...
+
+**[View full prompt →](./cases/paisley-jacquard-suit-campaign-walk.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Fashion Campaign
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Full Outfit
+- **Creator:** Emero
+- **Source:** [View original source](https://www.emero.studio/workflows/paisley-fashion-pegasus-spot-kling#paisley-suit-walk)
+
+---
+
+### No. 9: White Leather Sneaker Turntable Showcase
+
+**[Watch original video →](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-sneaker-turntable)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Footwear Product Presentation · Video.
+
+#### 💬 Prompt Preview
+
+```
+The turntable rotates slowly and smoothly about a quarter turn (90 degrees) so the toe of the sneaker swings toward the camera, then the turntable stops and the shoe holds still. Only the outer side and the toe are visible during the move. The camera is locked off; the studio lighting and soft shadow stay the same. The sneaker keeps exactly the same shape, plain white leather, white laces, gum sole and tan suede heel tab throughout; no logos, no perforations.
+```
+
+**[View full prompt →](./cases/white-leather-sneaker-turntable-showcase.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Footwear Product Presentation
+- **Content Category:** Product Commercial
+- **Product Category:** Shoes
+- **Creator:** Blurbly
+- **Source:** [View original source](https://blurbly.ai/prompts/kling-3-0-fashion-footwear-video#shot-sneaker-turntable)
 
 ## 🎬 Kling Fashion Video References
 
