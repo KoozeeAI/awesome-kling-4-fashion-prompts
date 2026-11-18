@@ -157,6 +157,7 @@ Exactly 20 seconds, 16:9 landscape, multi-shot live-action fashion runway footag
 
 - Model: Kling 4.0 Flash
 - Media Type: Video
+- Preview Image URL: https://pbs.twimg.com/amplify_video_thumb/2109983164592693248/img/scUd1ucaLQI7GhnL.jpg
 - Video URL: https://x.com/Diplomeme/status/2109983638242947120
 - Media Asset Source: https://x.com/Diplomeme/status/2109983638242947120
 - Fashion Use Case: Runway

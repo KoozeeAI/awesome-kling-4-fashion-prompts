@@ -44,14 +44,14 @@ Kling 4.0 is Kuaishou's video generation model, officially launched on October 1
 
 | Metric | Count |
 | --- | ---: |
-| Total Prompts | 9 |
-| Video Prompts | 9 |
-| Verified Prompt Cases | 9 |
-| Kling 4.0 Cases | 1 |
+| Total Prompts | 13 |
+| Video Prompts | 13 |
+| Verified Prompt Cases | 13 |
+| Kling 4.0 Cases | 4 |
 | Kling 4.0 Flash Cases | 1 |
-| Kling 3.0 Cases | 7 |
+| Kling 3.0 Cases | 8 |
 | Product Categories | 6 |
-| Fashion Use Cases | 9 |
+| Fashion Use Cases | 11 |
 
 ## ✨ Verified Prompt Cases
 
@@ -97,6 +97,12 @@ Use realistic skin texture, det
 ---
 
 ### No. 2: Burgundy Tiered Mini Dress Paris Runway
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2109983164592693248/img/scUd1ucaLQI7GhnL.jpg" width="460" alt="Burgundy Tiered Mini Dress Paris Runway">
+</div>
 
 **[Watch original video →](https://x.com/Diplomeme/status/2109983638242947120)**
 
@@ -173,7 +179,117 @@ A strong gust of wind comes from the left: the open camel coat billows and flaps
 
 ---
 
-### No. 4: Macro Leather Boot Lacing Demo
+### No. 4: Camel Trench Coat Paris Fashion Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://storage.googleapis.com/affogato2-public-prod-181150125152/web/seo/kling-4/trench-coat-walk.jpg" width="460" alt="Camel Trench Coat Paris Fashion Film">
+</div>
+
+**[Watch original video →](https://storage.googleapis.com/affogato2-public-prod-181150125152/web/seo/kling-4/trench-coat-walk.mp4)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Outerwear · Fashion Film · Video.
+
+#### 💬 Prompt Preview
+
+```
+Vertical fashion clip: a tall woman in her late twenties with sleek dark hair in a long camel trench coat over a black turtleneck walks toward the camera down a cobblestone street in Paris at golden hour. The camera tracks backward in front of her, then slowly orbits to her side as the coat swings with each step. She glances at the lens and gives a small confident smile. Warm low sun, shallow depth of field, cafe tables blurred behind. Sound: heels on cobblestones, distant street accordion.
+```
+
+**[View full prompt →](./cases/camel-trench-coat-paris-fashion-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 4.0
+- **Media Type:** Video
+- **Fashion Use Case:** Fashion Film
+- **Content Category:** Creative Fashion Video
+- **Product Category:** Outerwear
+- **Creator:** Affogato.ai
+- **Source:** [View original source](https://affogato.ai/models/kling-4)
+
+---
+
+### No. 5: Couture Gown Cinematic Fashion Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://external-preview.redd.it/aXVhcGJwcjBkdHBnMeFh5f-g-pryUZ1C40zztmiRO03UTpgCH-RwosjP4MJQ.png?format=pjpg&amp;auto=webp&amp;s=25117d686983a88cf179cb31a7a7c5b914345e8a" width="460" alt="Couture Gown Cinematic Fashion Film">
+</div>
+
+**[Watch original video →](https://v.redd.it/n8kbp6q0dtpg1/CMAF_1080.mp4?source=fallback)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Dress · Fashion Film · Video.
+
+#### 💬 Prompt Preview
+
+```
+Shot 1: 00:00 - 00:03 Dark clouds swirl above a dramatic cliffside landscape.
+
+Shot 2: 00:03 - 00:06 A model stands against the wind wearing a monumental couture dress made of layered silk structures.
+
+Shot 3: 00:06 - 00:09 Slow motion shot as the wind lifts the gown into enormous sculptural shapes.
+
+Shot 4: 00:09 - 00:12 Close-up showing rain droplets sliding across glossy fabrics and dramatic makeup.
+
+Shot 5: 00:12 - 00:15 Final epic shot as lightning illuminates the silhouette of the couture design against the sky. Cinematic intensity, high fashion drama.
+```
+
+**[View full prompt →](./cases/couture-gown-cinematic-fashion-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 3.0
+- **Media Type:** Video
+- **Fashion Use Case:** Fashion Film
+- **Content Category:** Cinematic Campaign
+- **Product Category:** Dress
+- **Creator:** Acceptable_Meat_8804
+- **Source:** [View original source](https://www.reddit.com/r/HiggsfieldAI/comments/1rx5elu/a_dramatic_cinematic_fashion_sequence_unfolding)
+
+---
+
+### No. 6: Crimson Silk Coat Runway Fashion Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://koozee-static.stariidata.com/web/koozee_zgk2jq4yhd9grewa.png" width="460" alt="Crimson Silk Coat Runway Fashion Film">
+</div>
+
+**[Watch original video →](https://cdn.pixeldojo.ai/pixeldojo/generated-videos/model-landing/kling-4-0/runway-cuts-1792780257242.mp4)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Outerwear · Runway fashion film · Video.
+
+#### 💬 Prompt Preview
+
+```
+Fashion film in a raw concrete warehouse with a single hard white spotlight. Shot 1, 0-3 s: low angle as a tall model in a sculptural crimson silk coat strides straight at the camera, fabric snapping behind her. Shot 2, 3-6 s: side tracking shot as she turns at the end of the runway and the coat flares. Shot 3, 6-10 s: tight close-up of her face in the light as she glances back over her shoulder. Hard cuts on the beat. Same model and coat in every shot. Audio: a deep electronic kick drum, heel clicks echoing, no subtitles.
+```
+
+**[View full prompt →](./cases/crimson-silk-coat-runway-fashion-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 4.0
+- **Media Type:** Video
+- **Fashion Use Case:** Runway fashion film
+- **Content Category:** Creative Fashion Video
+- **Product Category:** Outerwear
+- **Creator:** Brian Lovett (Pixel Dojo)
+- **Source:** [View original source](https://pixeldojo.ai/kling-4-0)
+
+---
+
+### No. 7: Macro Leather Boot Lacing Demo
 
 #### ▶️ Video Preview
 
@@ -207,7 +323,7 @@ Both hands pull the laces tight, cross them and tie a neat bow at the top of the
 
 ---
 
-### No. 5: Met Gala Haute Couture Gown Film
+### No. 8: Met Gala Haute Couture Gown Film
 
 #### ▶️ Video Preview
 
@@ -246,7 +362,7 @@ High-octane, hyper-realistic fashion sequence in the style of Christopher Nolan,
 
 ---
 
-### No. 6: Mock-Neck Tee Denim Shorts Commercial
+### No. 9: Mock-Neck Tee Denim Shorts Commercial
 
 #### ▶️ Video Preview
 
@@ -285,7 +401,7 @@ She then softly
 
 ---
 
-### No. 7: Olive Velvet Handbag Studio Commercial
+### No. 10: Olive Velvet Handbag Studio Commercial
 
 #### ▶️ Video Preview
 
@@ -320,7 +436,7 @@ Create a new video where, in a sunlit white studio, a woman in an Etro paisley s
 
 ---
 
-### No. 8: Paisley Jacquard Suit Campaign Walk
+### No. 11: Paisley Jacquard Suit Campaign Walk
 
 #### ▶️ Video Preview
 
@@ -355,7 +471,42 @@ Create a new video where a confident woman in an Etro paisley suit walks into an
 
 ---
 
-### No. 9: White Leather Sneaker Turntable Showcase
+### No. 12: White Leather Sneaker Product Launch Film
+
+#### ▶️ Video Preview
+
+<div align="center">
+<img src="https://predis.ai/assets/videos/ai-models/kling-4-0/sneaker-rise.jpg" width="460" alt="White Leather Sneaker Product Launch Film">
+</div>
+
+**[Watch original video →](https://predis.ai/assets/videos/ai-models/kling-4-0/sneaker-rise.mp4)**
+
+#### 📝 About This Case
+
+A curated AI fashion prompt for Shoes · Sneaker product launch commercial · Video.
+
+#### 💬 Prompt Preview
+
+```
+16:9, 10 seconds, sound on. One continuous FPV shot, no cuts. Video 1 is the camera reference: copy its camera path, speed ramps and timing, but none of its content. Image 1 is the product: a white leather sneaker with a gum sole. Look: photorealistic product launch at IMAX scale. A 14mm FPV camera, bright volumetric light, a seamless white studio floor. 0-2s: The camera races low across the white floor as scraps of white leather, laces and gum-rubber pellets lift off and float upward. 2-4s: The camera rockets up through spinning leather panels and a rising sole, near-misses on both sides. 4-6s: It climbs beside the shoe as the sole locks in and the upper wraps around it. 6-8s: A fast orbit as stitching runs along the seams in a wave and the laces thread themselves. 8-10s: The last eyelet clicks in, and the camera pulls back to reveal the finished sneaker standing alone on the white floor, exactly like Image 1. Sound: deep bass, leather snapping taut, a sharp click on every lock, wind
+```
+...
+
+**[View full prompt →](./cases/white-leather-sneaker-product-launch-film.md)**
+
+#### 🏷️ Details
+
+- **Model:** Kling 4.0
+- **Media Type:** Video
+- **Fashion Use Case:** Sneaker product launch commercial
+- **Content Category:** Product Commercial
+- **Product Category:** Shoes
+- **Creator:** Predis.ai
+- **Source:** [View original source](https://predis.ai/ai-models/kling-4-0)
+
+---
+
+### No. 13: White Leather Sneaker Turntable Showcase
 
 #### ▶️ Video Preview
 

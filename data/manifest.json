@@ -1,5 +1,5 @@
 {
-  "case_count": 9,
+  "case_count": 13,
   "cases": [
     {
       "content_category": "Model Showcase",
@@ -36,6 +36,42 @@
       "raw_model": "Kling 3.0",
       "source_path": "cases/camel-overcoat-wind-billow-video.md",
       "title": "Camel Overcoat Wind Billow Video"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Fashion Film",
+      "filename": "camel-trench-coat-paris-fashion-film.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Outerwear",
+      "raw_model": "Kling 4.0",
+      "source_path": "cases/camel-trench-coat-paris-fashion-film.md",
+      "title": "Camel Trench Coat Paris Fashion Film"
+    },
+    {
+      "content_category": "Cinematic Campaign",
+      "fashion_use_case": "Fashion Film",
+      "filename": "couture-gown-cinematic-fashion-film.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-3-0",
+      "product_category": "Dress",
+      "raw_model": "Kling 3.0",
+      "source_path": "cases/couture-gown-cinematic-fashion-film.md",
+      "title": "Couture Gown Cinematic Fashion Film"
+    },
+    {
+      "content_category": "Creative Fashion Video",
+      "fashion_use_case": "Runway fashion film",
+      "filename": "crimson-silk-coat-runway-fashion-film.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Outerwear",
+      "raw_model": "Kling 4.0",
+      "source_path": "cases/crimson-silk-coat-runway-fashion-film.md",
+      "title": "Crimson Silk Coat Runway Fashion Film"
     },
     {
       "content_category": "Product Demo",
@@ -99,6 +135,18 @@
     },
     {
       "content_category": "Product Commercial",
+      "fashion_use_case": "Sneaker product launch commercial",
+      "filename": "white-leather-sneaker-product-launch-film.md",
+      "layer": "verified_prompt_case",
+      "media_type": "Video",
+      "normalized_model_key": "kling-4-0",
+      "product_category": "Shoes",
+      "raw_model": "Kling 4.0",
+      "source_path": "cases/white-leather-sneaker-product-launch-film.md",
+      "title": "White Leather Sneaker Product Launch Film"
+    },
+    {
+      "content_category": "Product Commercial",
       "fashion_use_case": "Footwear Product Presentation",
       "filename": "white-leather-sneaker-turntable-showcase.md",
       "layer": "verified_prompt_case",
@@ -113,12 +161,12 @@
   "generated_from": "KoozeeAI/ai-fashion-prompts",
   "model_distribution": {
     "verified_prompt_cases": {
-      "kling-3-0": 7,
-      "kling-4-0": 1,
+      "kling-3-0": 8,
+      "kling-4-0": 4,
       "kling-4-0-flash": 1
     }
   },
   "normalized_model_key": "kling-4-0",
   "repository": "KoozeeAI/awesome-kling-4-fashion-prompts",
-  "verified_prompt_cases": 9
+  "verified_prompt_cases": 13
 }

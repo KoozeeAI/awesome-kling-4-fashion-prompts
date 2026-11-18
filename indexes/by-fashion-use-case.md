@@ -12,8 +12,10 @@ Explore prompts by their intended fashion use case.
 
 - [Paisley Jacquard Suit Campaign Walk](../cases/paisley-jacquard-suit-campaign-walk.md)
 
-### Fashion Film (1)
+### Fashion Film (3)
 
+- [Camel Trench Coat Paris Fashion Film](../cases/camel-trench-coat-paris-fashion-film.md)
+- [Couture Gown Cinematic Fashion Film](../cases/couture-gown-cinematic-fashion-film.md)
 - [Met Gala Haute Couture Gown Film](../cases/met-gala-haute-couture-gown-film.md)
 
 ### Footwear Product Presentation (1)
@@ -35,6 +37,14 @@ Explore prompts by their intended fashion use case.
 ### Runway (1)
 
 - [Burgundy Tiered Mini Dress Paris Runway](../cases/burgundy-tiered-mini-dress-paris-runway.md)
+
+### Runway fashion film (1)
+
+- [Crimson Silk Coat Runway Fashion Film](../cases/crimson-silk-coat-runway-fashion-film.md)
+
+### Sneaker product launch commercial (1)
+
+- [White Leather Sneaker Product Launch Film](../cases/white-leather-sneaker-product-launch-film.md)
 
 ### Social fashion reel / model pose showcase (1)
 
