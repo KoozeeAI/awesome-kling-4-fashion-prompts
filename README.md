@@ -554,8 +554,9 @@ Discover a fashion prompt → review the result → open the complete prompt →
 
 ## 🔗 More Prompt Libraries
 
-- [GPT Image 2 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts)
+- [Nano Banana Pro Fashion Prompts](https://github.com/KoozeeAI/awesome-nano-banana-pro-fashion-prompts)
 - [GPT Image 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-5-fashion-prompts)
+- [GPT Image 2 Fashion Prompts](https://github.com/KoozeeAI/awesome-gpt-image-2-fashion-prompts)
 - [Seedance 2.5 Fashion Prompts](https://github.com/KoozeeAI/awesome-seedance-2-5-fashion-prompts)
 
 ## 📚 Source & Attribution
